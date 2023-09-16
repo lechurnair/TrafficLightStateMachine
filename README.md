@@ -20,6 +20,13 @@ The project is organized as follows:
  - `RedLightState`: Light is Red, only possible transition is to YellowLightState.
   - `GreenLightState`: Light is Red, only possible transition is to YellowLightState.
   - `YellowLightState`: Light is Yellow, based on previous state, switch to either Red or Green.
+## Design
+
+### State Diagram
+![State diagram](Images/StateDiagram.png)
+
+### Dependency Diagram
+![Class diagram](Images/DependencyDiagram.png)
 
 
 
