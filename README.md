@@ -16,4 +16,10 @@ The project is organized as follows:
 - **UnitTest**: This namespace contains unit tests for the traffic light state machine.
   - `TrafficLightTest.cs`: Contains unit tests to verify the functionality of the state transitions.
 
+## States
+ - `RedLightState`: Light is Red, only possible transition is to YellowLightState.
+  - `GreenLightState`: Light is Red, only possible transition is to YellowLightState.
+  - `YellowLightState`: Light is Yellow, based on previous state, switch to either Red or Green.
+
+
 
