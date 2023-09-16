@@ -23,10 +23,10 @@ The project is organized as follows:
 ## Design
 
 ### State Diagram
-![State diagram](Images/StateDiagram.png)
+![State diagram](Images/TransitionDiagram.png)
 
 ### Dependency Diagram
-![Class diagram](Images/DependencyDiagram.png)
+![Class diagram](Images/DependancyDiagram.png)
 
 
 
